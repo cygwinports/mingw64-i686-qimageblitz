@@ -12,7 +12,6 @@ HOMEPAGE="http://www.kde.org/"
 SRC_URI="mirror://kde/stable/qimageblitz/qimageblitz-${VERSION}.tar.bz2"
 SRC_DIR="qimageblitz-${VERSION}"
 PATCH_URI="
-	0.0.6-find-qt4.patch
 	0.0.6-install-pkgconfig.patch
 	0.0.6-noinst-test.patch
 "
